@@ -37,7 +37,7 @@ Mobile View
 ### Links
 
 - Solution URL: [GitHub](https://github.com/salahudheen007/product-preview-card-component-main)
-- Live Site URL: [live url](https://6336fb4209b07807628c13ea--astounding-quokka-0985d4.netlify.app/)
+- Live Site URL: [live url](https://63381184478ad55048faa278--bespoke-bublanina-9e48d5.netlify.app/)
 
 ## My process
 
